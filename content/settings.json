@@ -6,7 +6,7 @@
     "bootswatch": "_",
     "custom": "niche-game"
   },
-  "bg_color": "#5f5f5f",
+  "bg_color": "#3c3c3c",
   "logo": "/img/uploads/logoooooo-1-removebg-preview-1.png",
   "name": "tecinfor",
   "short_name": "tecinfor",
@@ -20,6 +20,6 @@
   "secondary_color": "#323232",
   "icon": "/img/uploads/logo-tec-infor-1.png",
   "store_id": 44838,
-  "description": "tecinfor",
+  "description": "tecinfor uma loja de produtos de informática! ",
   "large_icon": "/img/uploads/logo-tec-infor-1.png"
 }
