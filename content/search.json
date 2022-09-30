@@ -3,31 +3,6 @@
     {
       "type": "search-engine",
       "enabled": true
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": true
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/categorias-23.png",
-          "mobile_img": "/img/uploads/categorias-23.png"
-        },
-        {
-          "img": "/img/uploads/categorias-25.png",
-          "mobile_img": "/img/uploads/categorias-25.png"
-        },
-        {
-          "img": "/img/uploads/categorias-22.png",
-          "mobile_img": "/img/uploads/categorias-22.png"
-        },
-        {
-          "img": "/img/uploads/categorias-20.png",
-          "mobile_img": "/img/uploads/categorias-20.png"
-        }
-      ]
     }
   ]
 }
