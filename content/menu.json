@@ -1,5 +1,12 @@
 {
-  "sort_categories": [],
+  "sort_categories": [
+    "todos",
+    "informatica",
+    "perifericos",
+    "suprimentos-de-impressao",
+    "pc-gamer",
+    "elgin"
+  ],
   "alphabetical_order": false,
   "phone_wpp": true,
   "socials": true
