@@ -25,7 +25,8 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-inicial-3.png"
+          "img": "/img/uploads/banner-inicial-3.png",
+          "mobile_img": "/img/uploads/banner-inicial-3.png"
         }
       ]
     },
