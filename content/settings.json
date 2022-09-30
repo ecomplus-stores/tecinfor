@@ -1,10 +1,10 @@
 {
   "domain": "tecinfor.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#4c4c4c",
+  "primary_color": "#373737",
   "theme": {
     "bootswatch": "_",
-    "custom": "_"
+    "custom": "niche-game"
   },
   "bg_color": "#5f5f5f",
   "logo": "/img/uploads/logoooooo-1-removebg-preview-1.png",
@@ -17,7 +17,7 @@
   "favicon": "/img/uploads/logo-tec-infor-1.png",
   "icons_font": "bootstrap-icons",
   "country_code": "BR",
-  "secondary_color": "#383838",
+  "secondary_color": "#323232",
   "icon": "/img/uploads/logo-tec-infor-1.png",
   "store_id": 44838,
   "description": "tecinfor",
