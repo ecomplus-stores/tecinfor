@@ -54,7 +54,8 @@
       "banners": [
         {
           "img": "/img/uploads/categorias-23.png",
-          "mobile_img": "/img/uploads/categorias-23.png"
+          "mobile_img": "/img/uploads/categorias-23.png",
+          "link": "https://tecinfor.netlify.app/search?term=computador"
         }
       ]
     }
