@@ -72,11 +72,6 @@
       "sort": "slug"
     },
     {
-      "type": "page-title",
-      "title": "Loja demo da E-Com Plus",
-      "description": "Loja de demonstração e testes da plataforma E-Com Plus e Storefront. Todos os produtos, preços e informações são meramente ilustrativos."
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 14,
@@ -84,6 +79,11 @@
       "collection_id": "623e169c2e405e04fffc8207:categories:Periféricos:/perifericos",
       "sort": "sales",
       "title": "periféricos "
+    },
+    {
+      "type": "page-title",
+      "title": "Loja demo da E-Com Plus",
+      "description": "Loja de demonstração e testes da plataforma E-Com Plus e Storefront. Todos os produtos, preços e informações são meramente ilustrativos."
     }
   ]
 }
