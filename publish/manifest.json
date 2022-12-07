@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.1a47f83e5480006aea5465d0588b36c4.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.30b795f80d0bbc726780fe454b0affb7.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.addbb107fb4a5ca5e5128f2557d41684.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.2b199c82fbdef93f90ca1fd2f2434208.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.d0d2270c037537a9bc07d5a83d322af7.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "tecinfor",
+  "short_name": "tecinfor",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "tecinfor uma loja de produtos de informática! ",
+  "background_color": "#3c3c3c",
+  "theme_color": "#373737"
+}
