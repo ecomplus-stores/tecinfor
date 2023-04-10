@@ -3,11 +3,6 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "page-title",
-      "title": "TEC INFOR",
-      "description": "Loja de  Informatica "
-    },
-    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": false,
