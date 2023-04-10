@@ -1,13 +1,6 @@
 {
   "sections": [
     {
-      "type": "breadcrumbs",
-      "enabled": true
-    },
-    {
-      "type": "page-title"
-    },
-    {
       "type": "document-banner",
       "enabled": true
     },
@@ -15,6 +8,13 @@
       "type": "collection-retail",
       "enabled": true,
       "sort": "sales"
+    },
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "page-title"
     },
     {
       "type": "document-description",
