@@ -49,10 +49,12 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "limit": 12,
       "page": 1,
-      "collection_id": "6434749a4bd2e929c1c935be:categories:COMPUTADORES:/computadores"
+      "collection_id": "6434749a4bd2e929c1c935be:categories:COMPUTADORES:/computadores",
+      "sort": "sales",
+      "autoplay": 5000
     },
     {
       "type": "info-bar",
