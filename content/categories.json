@@ -5,16 +5,16 @@
       "enabled": true
     },
     {
-      "type": "category-retail",
-      "enabled": true,
-      "sort": "sales"
-    },
-    {
       "type": "page-title"
     },
     {
       "type": "document-banner",
       "enabled": true
+    },
+    {
+      "type": "category-retail",
+      "enabled": true,
+      "sort": "sales"
     },
     {
       "type": "document-description",
