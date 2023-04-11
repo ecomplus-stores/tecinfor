@@ -8,8 +8,8 @@
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
+        "title": "Olá, seja bem-vindo(a)!!",
+        "link": ""
       },
       {
         "title": "Esta loja é um PWA",
