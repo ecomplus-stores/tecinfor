@@ -21,7 +21,8 @@
   },
   "categories_list": {
     "featured": [
-      "/computadores?COMPUTADORES"
+      "/computadores?COMPUTADORES",
+      "/hardware?HARDWARE"
     ],
     "random": 9,
     "full_width": true
