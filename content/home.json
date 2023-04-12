@@ -9,7 +9,7 @@
       "slides": [
         {
           "img": "/img/uploads/banner-inicial-2.png",
-          "link": "/headset",
+          "link": "https://tecinfor.netlify.app/fone--headset",
           "alt": "Headset banner",
           "start": "",
           "end": "",
