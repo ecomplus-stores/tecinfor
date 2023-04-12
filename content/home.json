@@ -18,7 +18,8 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-inicial-1.png"
+          "img": "/img/uploads/banner-inicial-1.png",
+          "link": "https://tecinfor.netlify.app/search?term=pc"
         },
         {
           "start": "",
