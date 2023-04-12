@@ -26,11 +26,11 @@
       "/acessorios?ACESSÓRIOS"
     ],
     "random": 10,
-    "full_width": true
+    "full_width": false
   },
   "desktop_megamenu": true,
   "search_input": true,
-  "alphabetical_order_submenu": true,
+  "alphabetical_order_submenu": false,
   "full_width_submenu": false,
   "centralized_logo": false
 }
