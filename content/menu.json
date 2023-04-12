@@ -1,8 +1,11 @@
 {
   "sort_categories": [
-    "completos",
+    "computadores",
     "gamer",
-    "hardware"
+    "hardware",
+    "redes",
+    "automacao",
+    "monitor"
   ],
   "alphabetical_order": false,
   "phone_wpp": true,
