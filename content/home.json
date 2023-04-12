@@ -39,13 +39,13 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": true,
-      "collection_id": null,
-      "sort": "sales",
+      "shuffle": false,
+      "collection_id": "64354c464bd2e929c1ca3e87:categories:PROCESSADORES:/processadores",
+      "sort": "offers",
       "title": "",
       "headless": true,
-      "limit": 8,
-      "page": 3
+      "limit": 12,
+      "page": 1
     },
     {
       "type": "collection-shelf",
