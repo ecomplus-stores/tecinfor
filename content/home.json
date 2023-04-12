@@ -53,11 +53,11 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 12,
+      "shuffle": false,
+      "limit": 8,
       "page": 1,
-      "collection_id": "6434749a4bd2e929c1c935be:categories:COMPUTADORES:/computadores",
-      "sort": "sales",
+      "collection_id": "64354a794bd2e929c1ca3a4c:categories:COMPLETOS:/completos",
+      "sort": "offers",
       "autoplay": 5000
     },
     {
@@ -76,7 +76,7 @@
       "collection_id": "64354bfc4bd2e929c1ca3e05:categories:SEGURANÇA:/seguranca",
       "autoplay": 5000,
       "headless": false,
-      "sort": "sales"
+      "sort": "offers"
     }
   ]
 }
