@@ -40,22 +40,22 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "collection_id": "64354c464bd2e929c1ca3e87:categories:PROCESSADORES:/processadores",
-      "sort": "offers",
-      "title": "",
-      "headless": true,
-      "limit": 12,
-      "page": 1
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
       "limit": 10,
       "page": 1,
       "collection_id": "64354a794bd2e929c1ca3a4c:categories:COMPLETOS:/completos",
       "sort": "offers",
       "autoplay": 5000,
       "headless": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "collection_id": "64354c464bd2e929c1ca3e87:categories:PROCESSADORES:/processadores",
+      "sort": "offers",
+      "title": "",
+      "headless": true,
+      "limit": 12,
+      "page": 1
     },
     {
       "type": "collection-shelf",
