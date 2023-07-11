@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.94a13fdef8d5875a9d4b737274192946.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.fd3ceb4801f5c5a50c3e47a496b3b2c9.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.5e419dc3d5e84a7b771abbf0e913bed8.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.ecf8a8ad98868b8e9a6ef44b7eed52e5.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.57f6d84de6fe9bb6291a35b4d2810c1d.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Tec Infor",
+  "short_name": "TEC INFOR ",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "inicio ",
+  "background_color": "#ffffff",
+  "theme_color": "#222831"
+}
